@@ -5,6 +5,15 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
+## break vercel deployment
+import clip
+import torch
+import numpy as np
+import faiss
+from pathlib import Path
+from PIL import Image
+import prophet
+
 load_dotenv()
 
 app = FastAPI()
