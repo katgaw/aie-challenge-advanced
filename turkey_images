@@ -1,0 +1,11 @@
+<script>start("/Users/katerinag/aie-challenge-frontend-advanced/turkey_images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("annoyed.png","annoyed.png",0,222628,"217 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("call for help.png","call%20for%20help.png",0,203284,"199 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("calm.png","calm.png",0,258973,"253 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("confused.png","confused.png",0,208588,"204 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("over it.png","over%20it.png",0,214430,"209 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("patient.png","patient.png",0,227255,"222 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("surprised.png","surprised.png",0,291122,"284 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("upset.png","upset.png",0,238897,"233 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
+<script>addRow("very annoyed.png","very%20annoyed.png",0,230208,"225 kB",1763821100,"11/22/25, 9:18:20 AM");</script>
